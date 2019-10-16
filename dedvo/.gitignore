@@ -1,0 +1,4 @@
+build
+dedvo_ros/build
+dedvo_gui/build
+CMakeLists.txt.user
